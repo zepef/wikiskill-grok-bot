@@ -1,0 +1,17 @@
+## Un lundi dans un essaim de promotion
+
+Prenons une petite équipe qui n’a rien d’extraordinaire : trois exécutants déjà en place, plus le pupitre WikiSkill qu’on vient de décrire. Le Rédacteur écrit les textes. Le Veilleur ramène les sujets, les tournures adverses, les questions qui reviennent. Le Diffuseur prépare la mise en ligne sur X et sur LinkedIn, et il n’envoie jamais sans ton autorisation. Aucun de ces trois-là n’entre dans la Boucle.
+
+Lundi, 11 h 40. Le Rédacteur livre un message de lancement. L’accroche promet « gratuit pour toujours ». L’offre réelle, sur la page, tient quatorze jours. Le Diffuseur, fidèle à la procédure en vigueur, prépare la publication et demande le feu vert. Quelqu’un signe trop vite. Le message part. Le public le lit plus attentivement que la page. Les réponses fusent, le ton bascule, il faut rectifier en public. En fin de tâche, la procédure de journal ajoute une ligne sous `raw/2026-09-14/` : échec, code court `offre-surevaluee`, aucune phrase de message, aucun jeton, aucun nom.
+
+Mardi, autre incident plus banal : une adresse de prévisualisation a glissé dans le corps, et une accroche déjà refusée la semaine d’avant a été rejouée. Deux traces de plus. Toujours rien dans le wiki que les exécutants puissent ouvrir.
+
+À 2 h, l’Archiviste lit seulement les fichiers nouveaux. Il n’écrit pas « faire attention aux offres ». Il écrit une page de motif, ancrée dans les traces nommées : symptôme, cause première, parade qui a tenu, parades déjà rejetées. Le registre d’effet reçoit la même histoire, pour que le Proposant ne représente pas demain le correctif qu’on a déjà écarté. Un résumé court tombe dans la Boucle. Le Rédacteur ne le voit pas.
+
+À 2 h 30, le Proposant n’ouvre pas trois procédures « tant qu’on y est ». Il prend le trou que le wiki documente et que la procédure `lancement-message` ne couvre pas encore, et il écrit **un** candidat en quarantaine : toute promesse chiffrée ou définitive doit citer la page d’offre avant la demande d’autorisation, et toute accroche déjà portée en refus dans le registre d’effet est interdite. L’écart est déposé dans la Boucle. Rien n’est activé.
+
+À 3 h, l’Arbitre joue huit lancements tenus à l’écart, que les exécutants n’ont pas eus sous les yeux pendant la semaine. Avec la procédure en vigueur, cinq sur huit tiennent. Avec le candidat, sept sur huit tiennent. La note d’épreuve dépasse la meilleure note tenue. L’Arbitre n’enregistre rien tout seul : il pose l’acceptation, les notes, l’écart, et il attend ton autorisation. Toi seul actives la nouvelle procédure, et seulement chez le Diffuseur et le Rédacteur. Le Veilleur n’en a pas besoin. Le Diffuseur, même après cela, n’envoie toujours pas sans autorisation.
+
+Ce que l’exemple change, par rapport à « on va mettre le wiki dans un dossier partagé », tient en trois refus. On ne met pas le Rédacteur dans la Boucle « pour qu’il s’améliore tout seul » : le mémoire a mesuré que l’acteur de production qui lit le wiki du formateur rend les traces plus pauvres, donc la procédure plus fragile. On ne laisse pas le Proposant publier. On ne lance pas les rondes tant que les huit lancements d’épreuve ne sont pas dans `bench/val`, avec un barème : sans ce jeu, l’Arbitre s’arrête, et la semaine n’est qu’un théâtre de comptes rendus.
+
+Le lundi suivant, la même offre trop vaste ne repasse pas la procédure. L’essaim n’a pas « appris la promotion ». Il a cessé de payer deux fois le même mensonge d’accroche.
