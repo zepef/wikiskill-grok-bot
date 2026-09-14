@@ -12,3 +12,5 @@ Bandeau X (5:2) : [bandeau-x.jpg](bandeau-x.jpg)
 Dépôt : https://github.com/zepef/wikiskill-grok-bot
 
 Mémoire : https://arxiv.org/abs/2608.27454
+
+Lab X : https://le-lab-x.com/fr
