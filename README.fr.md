@@ -1,4 +1,4 @@
-# WikiSkill pour Grok Bot
+<img width="1984" height="992" alt="image" src="https://github.com/user-attachments/assets/a6afc6df-7eb1-4ad4-9088-a14a0667ad12" /># WikiSkill pour Grok Bot
 
 Adaptation, dans le produit seulement, de [WikiSkill](https://arxiv.org/abs/2608.27454) (Google Research, 27 août 2026).
 
