@@ -1,13 +1,12 @@
-# X Article — WikiSkill for Grok Bot
+# Article X. WikiSkill pour Grok Bot
 
-Full long-form articles, including the marketing-swarm Monday example.
+| Langue | Article | Bandeau |
+|---|---|---|
+| Français | [fr.md](fr.md) | [bandeau-fr.jpg](bandeau-fr.jpg) |
+| Anglais (États-Unis) | [us.md](us.md) | [bandeau-us.jpg](bandeau-us.jpg) |
 
-| Language | File |
-|---|---|
-| Français | [fr.md](fr.md) |
-| English (US) | [us.md](us.md) |
-| Exemple seul (FR) | [exemple-essaim-fr.md](exemple-essaim-fr.md) |
-| Example only (US) | [exemple-essaim-us.md](exemple-essaim-us.md) |
+Bandeau X (5:2) : [bandeau-x.jpg](bandeau-x.jpg)
 
-Repo: https://github.com/zepef/wikiskill-grok-bot
-Paper: https://arxiv.org/abs/2608.27454
+Dépôt : https://github.com/zepef/wikiskill-grok-bot
+
+Mémoire : https://arxiv.org/abs/2608.27454
