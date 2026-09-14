@@ -1,5 +1,6 @@
 # WikiSkill for Grok Bot / WikiSkill pour Grok Bot
-<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/a949f89c-8fce-4241-b44b-d94759fda737" />
+<img width="1984" height="992" alt="image" src="https://github.com/user-attachments/assets/8a98a81f-a281-4cc5-ae5a-4f9cde1f1d6d" />
+
 
 Native WikiSkill pack for [Grok Bot](https://x.ai/bot). Bilingual repository.
 
