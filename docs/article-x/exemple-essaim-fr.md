@@ -1,4 +1,4 @@
-## Un lundi dans un essaim de promotion
+## Un lundi matin dans un essaim Marketing
 
 Prenons une petite équipe qui n’a rien d’extraordinaire : trois exécutants déjà en place, plus le pupitre WikiSkill qu’on vient de décrire. Le Rédacteur écrit les textes. Le Veilleur ramène les sujets, les tournures adverses, les questions qui reviennent. Le Diffuseur prépare la mise en ligne sur X et sur LinkedIn, et il n’envoie jamais sans ton autorisation. Aucun de ces trois-là n’entre dans la Boucle.
 
@@ -8,7 +8,7 @@ Mardi, autre incident plus banal : une adresse de prévisualisation a glissé da
 
 À 2 h, l’Archiviste lit seulement les fichiers nouveaux. Il n’écrit pas « faire attention aux offres ». Il écrit une page de motif, ancrée dans les traces nommées : symptôme, cause première, parade qui a tenu, parades déjà rejetées. Le registre d’effet reçoit la même histoire, pour que le Proposant ne représente pas demain le correctif qu’on a déjà écarté. Un résumé court tombe dans la Boucle. Le Rédacteur ne le voit pas.
 
-À 2 h 30, le Proposant n’ouvre pas trois procédures « tant qu’on y est ». Il prend le trou que le wiki documente et que la procédure `lancement-message` ne couvre pas encore, et il écrit **un** candidat en quarantaine : toute promesse chiffrée ou définitive doit citer la page d’offre avant la demande d’autorisation, et toute accroche déjà portée en refus dans le registre d’effet est interdite. L’écart est déposé dans la Boucle. Rien n’est activé.
+À 2 h 30, le Proposant n’ouvre pas trois procédures « tant qu’on y est ». Il prend le trou que le wiki documente et que la procédure `lancement-message` ne couvre pas encore, et il écrit un candidat en quarantaine : toute promesse chiffrée ou définitive doit citer la page d’offre avant la demande d’autorisation, et toute accroche déjà portée en refus dans le registre d’effet est interdite. L’écart est déposé dans la Boucle. Rien n’est activé.
 
 À 3 h, l’Arbitre joue huit lancements tenus à l’écart, que les exécutants n’ont pas eus sous les yeux pendant la semaine. Avec la procédure en vigueur, cinq sur huit tiennent. Avec le candidat, sept sur huit tiennent. La note d’épreuve dépasse la meilleure note tenue. L’Arbitre n’enregistre rien tout seul : il pose l’acceptation, les notes, l’écart, et il attend ton autorisation. Toi seul actives la nouvelle procédure, et seulement chez le Diffuseur et le Rédacteur. Le Veilleur n’en a pas besoin. Le Diffuseur, même après cela, n’envoie toujours pas sans autorisation.
 
