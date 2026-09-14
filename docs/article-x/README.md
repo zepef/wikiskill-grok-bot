@@ -4,6 +4,8 @@
 |---|---|---|
 | Français | [fr.md](fr.md) | [bandeau-fr.jpg](bandeau-fr.jpg) |
 | Anglais (États-Unis) | [us.md](us.md) | [bandeau-us.jpg](bandeau-us.jpg) |
+| Exemple seul (FR) | [exemple-essaim-fr.md](exemple-essaim-fr.md) | |
+| Example only (US) | [exemple-essaim-us.md](exemple-essaim-us.md) | |
 
 Bandeau X (5:2) : [bandeau-x.jpg](bandeau-x.jpg)
 
